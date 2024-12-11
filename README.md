@@ -1,1 +1,1 @@
-Dicoding Collection Dashboard 
+python -m streamlit run "dashboard fixx.py"
