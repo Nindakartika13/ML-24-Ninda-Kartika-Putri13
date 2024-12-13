@@ -42,7 +42,7 @@ pip freeze > requirements.txt
 Setelah virtual environment aktif dan semua dependensi terinstal, jalankan aplikasi Streamlit:
 
 bash
-streamlit run app.py
+streamlit run Dashboard.py
 
 
 Pastikan mengganti app.py dengan nama file utama aplikasi Anda.
